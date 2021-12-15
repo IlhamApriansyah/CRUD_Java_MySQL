@@ -6,4 +6,5 @@ Java yang digunakan adalah versi JDK-11
 MySQL yang digunakan merupakan versi 8
 
 ini berbasis Text, jadi bisa coding lewat Text editor/IDE kesayangan kalian
-(namun, disarankan menggunakan Netbeans versi 12.5)
+
+(disarankan pakai Netbeans versi 12.5)
